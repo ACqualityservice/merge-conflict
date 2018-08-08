@@ -47,6 +47,11 @@ resume_social_links:
   resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
+# Resume_section_skills:
+# uncomment the options you wish to display, and add your own URL
+resume_section_skills::
+  Server Experience:            "SQL Server 2012 / Azure Based Systems"
+
 # Design settings
 resume_theme:                   default
 
